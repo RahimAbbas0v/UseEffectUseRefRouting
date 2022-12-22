@@ -1,0 +1,36 @@
+nav{
+    color: white;
+    height: 5rem;
+}
+#lightbtn{
+    margin-top: 1.8rem;
+    height: 2.6rem;
+}
+.tablediv{
+    padding-top: 5rem;
+}
+#tablehead{
+    position: sticky;
+    top: 0.01rem;
+}
+#table{
+    overflow-y: auto;
+    height: 30rem;
+    width: 70rem;margin-left:auto; margin-right:auto; 
+}
+#deletebtn{
+    color: white;
+    background-color: black;
+    height: 2.6rem;
+    width: 5rem;
+}
+#deletebtn:hover{
+    color: red;
+}
+#link{
+    color: white;
+    text-decoration: none;
+}
+li{
+    cursor: pointer;
+}
