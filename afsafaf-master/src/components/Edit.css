@@ -1,0 +1,17 @@
+.btndiv{
+    padding-top: 2rem;
+}
+.btndiv button{
+    width: 8rem;
+    height: 2.5rem;
+}
+.input-group input{
+    height: 2.5rem;
+    padding: 0;
+    margin: 0;
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30rem;
+}

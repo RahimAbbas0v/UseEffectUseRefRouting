@@ -1,0 +1,10 @@
+.btndiv{
+    padding-top: 2rem;
+}
+.btndiv button{
+    margin: 1rem;
+    width: 8rem;
+    height: 2.5rem;
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,24 @@
+#button{
+    background-color: black;
+    color: white;
+    width: 8rem;
+    font-weight: 400;
+    height: 2.1rem;
+    border-radius: 0.5rem;
+}
+#form{
+    padding-top: 1.5rem;
+}
+#linkli{
+    padding-top: 0.5rem;
+}
+#link{
+    color: white;
+    text-decoration: none;
+}
+li{
+    cursor: pointer;
+}
+.btndiv{
+    margin-top: -1.5rem;
+}
